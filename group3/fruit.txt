@@ -2,8 +2,5 @@
 
 
 
-<<<<<<< HEAD
 mango
-=======
 papple
->>>>>>> f0f7f216ee50cfd9a85081aabb751ee0378336dd
